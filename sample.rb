@@ -1,6 +1,4 @@
 def hello
-    puts "Hello,Git."
+    puts "Hello,GitHub."
     end
-    
-
-    hello
+hello
